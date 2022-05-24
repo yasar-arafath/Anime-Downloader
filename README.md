@@ -1,5 +1,5 @@
 # Anime Downloader by Yasar Arafat
-A Python script run in a docker container that uses Selenium and Headless Chrome to allow you to download anime from gogoanime.so easily.
+A Python script run in a docker container that uses Selenium and Headless Chrome to allow you to download Anime.
 
 
 ### Step 1
