@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+selenium==3.141.0
+webdriver-manager
+PyVirtualDisplay
+chromedriver-py
+xvfbwrapper
